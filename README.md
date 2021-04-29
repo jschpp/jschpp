@@ -1,10 +1,10 @@
 # Johannes Schöpp
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fjschpp.de&style=for-the-badge)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fjschpp.de&style=for-the-badge)](https://jschpp.de)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jschpp?style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jschpp?style=for-the-badge)](https://twitter.com/jschpp)
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/jschpp?style=for-the-badge)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/jschpp?style=for-the-badge)](https://keybase.io/jschpp)
 
 ### Hi there 👋
 
