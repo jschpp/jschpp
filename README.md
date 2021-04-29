@@ -1,4 +1,14 @@
+# Johannes Schöpp
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fjschpp.de&style=for-the-badge)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/jschpp?style=for-the-badge)
+
+![Keybase PGP](https://img.shields.io/keybase/pgp/jschpp?style=for-the-badge)
+
 ### Hi there 👋
+
+
 
 <!--
 **jschpp/jschpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
